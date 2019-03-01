@@ -3,6 +3,8 @@ ETL Project for Rice Bootcamp
 
 This contains the code used to create a MySQL database relating college and degree recorded salaries with some information about the colleges - including cost data, degree data, demographic data, and admissions data
 
+Read full explanation [here](https://docs.google.com/document/d/1r9pAzCjvrznvfVVCcIehjgSsrL7fFV43xp9Q_C_2h7Q/edit?usp=sharing).
+
 
 # If using the code:
 - first, navigate into the Code folder and run create_db.sql to create the colleges_db database.
